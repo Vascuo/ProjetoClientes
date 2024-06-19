@@ -1,0 +1,74 @@
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.AssemblyReference.cache
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.ExibirClientes.resources
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.GenerateResource.cache
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfoInputs.cache
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfo.cs
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CoreCompileInputs.cache
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\projClientes.exe
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\projClientes.deps.json
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\projClientes.runtimeconfig.json
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\projClientes.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\projClientes.pdb
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CopyComplete
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\refint\projClientes.dll
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.pdb
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\projClientes.genruntimeconfig.cache
+C:\Users\alunoct\Desktop\mateus IN205\LP2 IN205\projClientes\obj\Debug\net6.0-windows\ref\projClientes.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.exe
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.deps.json
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.runtimeconfig.json
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.pdb
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.AssemblyReference.cache
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.BuscarClientes.resources
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.ExibirClientes.resources
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.GenerateResource.cache
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfoInputs.cache
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfo.cs
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CoreCompileInputs.cache
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CopyComplete
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\refint\projClientes.dll
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.pdb
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.genruntimeconfig.cache
+C:\Users\alunoct\Videos\TrabLP2MQA\projClientes\projClientes\obj\Debug\net6.0-windows\ref\projClientes.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\projClientes.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.BuscarClientes.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.ExibirClientes.resources
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\refint\projClientes.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\projClientes.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\c#\projClientes\projClientes\obj\Debug\net6.0-windows\ref\projClientes.dll
